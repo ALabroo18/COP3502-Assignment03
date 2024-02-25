@@ -13,6 +13,6 @@ int main(){
     //scanf("%c", [persCount - 1][0]);
     printf("s");
     printf("s");
-
+//werewrr
     return 0;
 }
