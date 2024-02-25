@@ -4,7 +4,13 @@ typedef struct test{
 
 }teststr;
 int main(){
-    char name;
-    printf("Hello");
+    int persCount;
+    char name[20][persCount];
+       
+    printf(" \n");
+    //while 
+    //persCount++
+    //scanf("%c", [persCount - 1][0]);
+
     return 0;
 }
