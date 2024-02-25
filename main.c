@@ -5,6 +5,6 @@ typedef struct test{
 }teststr;
 int main(){
     char name;
-    printf("");
+    printf("Hello");
     return 0;
 }
